@@ -1,2 +1,2 @@
 # DSA_Essentials
-A dedicated repository for DSA algorithms
+A dedicated repository for DS Algorithms
