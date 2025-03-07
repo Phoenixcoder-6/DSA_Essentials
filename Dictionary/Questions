@@ -3,3 +3,4 @@ Questions on Dictionary
 >> Basic Level:
 1. Create a dictionary with at least five key-value pairs and print it.
 2. Retrieve a value from a dictionary using a key.
+3. Add a new key-value pair to an existing dictionary.
