@@ -4,3 +4,4 @@ Questions on Dictionary
 1. Create a dictionary with at least five key-value pairs and print it.
 2. Retrieve a value from a dictionary using a key.
 3. Add a new key-value pair to an existing dictionary.
+4. Update an existing key with a new value.
