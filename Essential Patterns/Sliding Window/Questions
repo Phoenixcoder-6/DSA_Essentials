@@ -1,5 +1,6 @@
 Questions on Sliding Window
 
 1. Maximum Sum of a Subarray of Size K.
-2. First negative number in every window of size k
-Given an array of integers, find the first negative number in every window of size k. If no negative number is present in the window, return 0.
+2. First negative number in every window of size k: Given an array of integers, 
+  find the first negative number in every window of size k.
+  If no negative number is present in the window, return 0.
