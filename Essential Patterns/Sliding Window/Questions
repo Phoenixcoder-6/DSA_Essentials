@@ -4,3 +4,4 @@ Questions on Sliding Window
 2. First negative number in every window of size k: Given an array of integers, 
   find the first negative number in every window of size k.
   If no negative number is present in the window, return 0.
+3. Count Distinct Elements in Every Window of Size k
