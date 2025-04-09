@@ -14,3 +14,6 @@ def duplicate(arr):
     
 arr=[2,5,4,3,2,1,2,1]
 duplicate(arr)
+.
+.
+.
