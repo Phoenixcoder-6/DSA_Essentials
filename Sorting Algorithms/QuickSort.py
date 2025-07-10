@@ -23,3 +23,6 @@ arr=[10,8,2,3,4,1,7]
 print("Original Array:",arr)
 quicksort(arr,0,len(arr)-1)
 print(arr)
+.
+/
+/
