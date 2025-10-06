@@ -12,3 +12,6 @@ def armstrong_number(num):
 num=9474
 result= armstrong_number(num)
 print(result)
+.
+.
+
